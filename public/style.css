@@ -93,3 +93,6 @@ video{
 .unmute, .stop_video{
     color: #cc3b33;
 }
+.w-100{
+    width: 100%;
+}
